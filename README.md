@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository demonstrates a Syncfusion Blazor WebAssembly (WASM) application configured for deployment to Cloudflare Pages. The sample is organized around a Blazor WebAssembly project and includes deployment workflow assets that help publish the application to Cloudflare-hosted infrastructure. The repository is intended as a reference for developers who want to host a Syncfusion Blazor application, including DataGrid functionality, in a Cloudflare Pages environment while using a GitHub-based deployment workflow.
+This repository demonstrates a Syncfusion Blazor WebAssembly (WASM) application configured for deployment to Cloudflare Pages. The sample is organized around a Blazor WebAssembly project and includes deployment workflow assets that help publish the application to Cloudflare-hosted infrastructure. The repository is intended as a reference for developers who want to host a Syncfusion Blazor application, including [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) functionality, in a Cloudflare Pages environment while using a GitHub-based deployment workflow.
 
 ## Key Features
 
